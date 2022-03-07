@@ -15,7 +15,7 @@
     "sqs-consumer": "^5.3.0"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
+    "chai": "4.3.6",
     "esdoc": "^1.1.0",
     "esdoc-ecmascript-proposal-plugin": "^1.0.0",
     "esdoc-node": "^1.0.3",
