@@ -6,7 +6,7 @@
   "dependencies": {
     "@naturacosmeticos/async-hooks-storage": "^1.0.0",
     "@naturacosmeticos/clio-nodejs-logger": "^2.0.0",
-    "amqplib": "^0.5.2",
+    "amqplib": "^0.10.0",
     "async": "^2.6.1",
     "aws-sdk": "^2.505.0",
     "lodash": "^4.17.10",
