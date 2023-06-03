@@ -20,7 +20,7 @@ services:
     environment:
       VIRTUAL_HOST: rabbitmq.messaging.localtest.me
       VIRTUAL_PORT: 15672
-    image: rabbitmq:3.7-management-alpine
+    image: rabbitmq:3.12-management-alpine
     hostname: iris-rabbitmq
     networks:
       messaging:
