@@ -23,7 +23,7 @@
     "eslint": "^5.3.0",
     "@naturacosmeticos/eslint-config-natura": "^1.0.0",
     "eslint-plugin-import": "^2.14.0",
-    "faker": "^4.1.0",
+    "@faker-js/faker": "^4.1.0",
     "humps": "^2.0.1",
     "mocha": "^5.2.0",
     "nodemon": "^1.17.5",
